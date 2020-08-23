@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaveenhyacinth/mongoTube.git"
+    "url": "git+https://github.com/kaveenhyacinth/Mocha-Test.git"
   },
   "keywords": [
     "mongodb"
